@@ -10,7 +10,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 joblib==1.2.0
 MarkupSafe==2.0.1
-numpy==1.21.1
+numpy==1.22.0
 packaging==21.0
 pyparsing==2.4.7
 PyYAML==5.4.1
